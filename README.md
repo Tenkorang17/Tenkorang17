@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joseph Ofori Tenkorang
+- # 👋 Hi, I’m Joseph Ofori Tenkorang
 - I was introduced to programming in 2020, pretty late but @fransay https://github.com/fransay did not give up on me, he taught me various ways to handle the python programming language
 - Thank you @fransay https://github.com/fransay
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------
