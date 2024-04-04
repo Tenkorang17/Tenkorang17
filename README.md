@@ -6,7 +6,7 @@
 - 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning towards the software engineering career
 - I am committed, motivated and consistent. These values @fransay https://github.com/fransay taught me and it has helped me alot.
-- 💞️ I’m looking to collaborate on with with team mates to aid a successful project
+- 💞️ I’m looking to collaborate with teams/individuals to aid a successful project
 - 📫 How to reach me 
 - Please let's connect and share resources to better ourselves for the journey ahead.
 - Twitter--- https://twitter.com/mr_tenkorang
