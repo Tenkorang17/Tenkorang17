@@ -1,5 +1,5 @@
 - # 👋 Yo, I’m Joseph Ofori Tenkorang
-- I am a full stack # flutter and # django developer
+- I am a full stack FLUTTER and DJANGO developer
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------
 - I am committed, motivated and consistent.
 - 💞️ I’m looking to collaborate with teams/individuals to aid a successful project
