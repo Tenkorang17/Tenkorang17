@@ -1,11 +1,7 @@
-- # 👋 Hi, I’m Joseph Ofori Tenkorang
-- I was introduced to programming in 2020, pretty late but @fransay https://github.com/fransay did not give up on me, he taught me various ways to handle the python programming language
-- Thank you @fransay https://github.com/fransay
+- # 👋 Yo, I’m Joseph Ofori Tenkorang
+- I am a full stack # flutter and # django developer
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-- 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning towards the software engineering career
-- I am committed, motivated and consistent. These values @fransay https://github.com/fransay taught me and it has helped me alot.
+- I am committed, motivated and consistent.
 - 💞️ I’m looking to collaborate with teams/individuals to aid a successful project
 - 📫 How to reach me 
 - Please let's connect and share resources to better ourselves for the journey ahead.
