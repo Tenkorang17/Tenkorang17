@@ -8,6 +8,7 @@
 - Twitter--- https://twitter.com/mr_tenkorang
 - instagram --- https://www.instagram.com/mr.ten_korang/
 - Email --- josephoforitenkorang391@gmail.com
+- LinkedIn --- https://www.linkedin.com/in/joseph-ofori-tenkorang-3005b5208/
 
 <!---
 Tenkorang17/Tenkorang17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
