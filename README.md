@@ -40,10 +40,6 @@ A monitoring tool developed using Flutter/Dart for cocoa rehabilitation projects
 ### [touton_cocoa_master](https://github.com/AfarinickCompanyLimited/touton_cocoa_master)
 A project developed using Dart for managing cocoa production, specifically for the Touton company.
 
-## 📈 GitHub Stats
-
-![Mr. Tenkorang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtenkorang&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mrtenkorang/)
