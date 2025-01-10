@@ -9,7 +9,7 @@ I'm a passionate software developer with a focus on building efficient and scala
 - 🌱 I’m actively developing
 - 💬 Ask me about **Flutter/Dart, JavaScript, Python/Django, and Web Development**
 - 📫 How to reach me: **josephoforitenkorang391@gmail.com**
-- ⚡ Fun fact: **I love football/soccer, I am A manchester united supporter**
+- ⚡ Fun fact: **I love football/soccer, I am a manchester united supporter**
 
 ## 🚀 Skills
 
