@@ -44,6 +44,6 @@ A project developed using Dart for managing cocoa production, specifically for t
 
 - [LinkedIn](https://www.linkedin.com/in/mrtenkorang/)
 - [Twitter](https://twitter.com/mrtenkorang)
-- [Personal Website]([https://www.mrtenkorang.com](https://josephoforitenkorang.netlify.app/))
+- [Personal Website](https://josephoforitenkorang.netlify.app/)
 
 Thanks for visiting my profile!
