@@ -4,12 +4,12 @@
 
 ## About Me
 
-I'm a passionate software developer with a focus on building efficient and scalable web applications. I enjoy learning new technologies and constantly improving my coding skills.
+# SOFTWARE ENGINEER | GIS MOBILE APP ENGINEER
 
 - 🌱 I’m actively developing
-- 💬 Ask me about **Flutter/Dart, JavaScript, Python/Django, and Web Development**
+- 💬 Ask me about **Flutter/Dart, GIS, JavaScript, Python/Django, and Web Development**
 - 📫 How to reach me: **josephoforitenkorang391@gmail.com**
-- ⚡ Fun fact: **I love football/soccer, I am a manchester united supporter**
+- ⚡ Fun fact: **When I am not coding, I am playing football/soccer**
 
 ## 🚀 Skills
 
@@ -20,27 +20,41 @@ I'm a passionate software developer with a focus on building efficient and scala
 
 ## 🛠️ Projects
 
-Here are a few projects I've worked on:
+Here are a top projects I've worked on:
 
-### [ACL_HR_PORTAL](https://github.com/AfarinickCompanyLimited/ACL_HR_PORTAL)
-A Human Resources portal developed using JavaScript. This project aims to streamline HR processes within the organization at afarinick COmpany Limited.
+Passionate about building innovative mobile and back-end solutions for GIS mobile applications, the agricultural sector and businesses at large.
+Key Projects & Expertise:
 
-### [ACL_WEBSITE](https://github.com/AfarinickCompanyLimited/ACL_WEBSITE)
-A website developed using Python/Django for Afarinick Company Limited. This project includes features for managing the company’s online presence.
+### 🌍 Ghana’s Cocoa Rehabilitation Mobile App Development/Engineering
 
-### [agroforestry_mobile_app](https://github.com/AfarinickCompanyLimited/agroforestry_mobile_app)
-A mobile application developed using Flutter/Dart for agroforestry management. This project includes tools for field data collection(tree locations) and analysis.
+    Mapping cocoa farms using polygon-based data collection
+    Farmer registration and internal inspections
+    Processing and analyzing polygon data for insights
 
-### [cocoa_master](https://github.com/AfarinickCompanyLimited/cocoa_master)
-A mobile application developed using Flutter/Dart for managing cocoa production. This project aims to assist cocoa farmers with various management tasks.
+### 📦 Ghana's Cocoa Traceability Mobile App Development/Engineering
 
-### [cocoa_rehab_monitor](https://github.com/AfarinickCompanyLimited/cocoa_rehab_monitor)
-A monitoring tool developed using Flutter/Dart for cocoa rehabilitation projects. This project includes features for GIS computations such as farm mapping.
+    Tracking cocoa bean movement from farmers to shipment
+    Ensuring transparency and efficiency in the cocoa supply chain
 
-### [touton_cocoa_master](https://github.com/AfarinickCompanyLimited/touton_cocoa_master)
-A project developed using Dart for managing cocoa production, specifically for the Touton company.
+### 🌱 Agroforestry Mobile App Development/Engineering
 
-## 📫 Connect with Me
+    Collecting tree location and information (circumference, age, type, species, etc.)
+    Developing tree data collection algorithms
+
+### 📍 Geospatial Mobile App Development/ Engineering
+
+    GIS data collection from the field
+    GIS data visualization and analytics
+    Developing GIS-based algorithms for mapping and insights
+
+### 🛰 Geospatial Backend Development/Engineering
+
+    GIS API development for spatial data processing
+    Advanced GIS data manipulation and analytics
+
+I’m passionate about using technology to drive sustainable agriculture, geospatial intelligence, and digital transformation in the agricultural sectors at large. I am always open to collaborations and discussions! 🚀
+
+## 📫 Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/mrtenkorang/)
 - [Twitter](https://twitter.com/mrtenkorang)
