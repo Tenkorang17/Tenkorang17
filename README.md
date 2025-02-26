@@ -1,63 +1,49 @@
-# Hi there, I'm Mr. Tenkorang 👋
+# Hi, I'm Joseph Ofori Tenkorang 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=mrtenkorang&color=green)
 
-## About Me
+## 🚀 Software Engineer | GIS Mobile App Engineer
 
-# SOFTWARE ENGINEER | GIS MOBILE APP ENGINEER
+I am a passionate **Software Engineer** specializing in **GIS Mobile App Development**, **Back-end Engineering**, and **Geospatial Data Processing**. My expertise spans across **Flutter/Dart, Python/Django, GIS, JavaScript, and Web Development**. I am dedicated to leveraging technology to drive digital transformation in **agriculture, geospatial intelligence, and sustainability**.
 
-- 🌱 I’m actively developing
-- 💬 Ask me about **Flutter/Dart, GIS, JavaScript, Python/Django, and Web Development**
-- 📫 How to reach me: **josephoforitenkorang391@gmail.com**
-- ⚡ Fun fact: **When I am not coding, I am playing football/soccer**
+## 🛠️ Technical Skills
 
-## 🚀 Skills
-
-- **Languages:** Dart,Go, JavaScript, Python, Java, C/C++
-- **Frameworks:** Flutter, React, Node.js, Django
+- **Programming Languages:** Dart, Go, JavaScript, Python, Java, C/C++
+- **Frameworks & Technologies:** Flutter, React, Node.js, Django
 - **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools:** Git, Docker, Kubernetes
+- **DevOps & Tools:** Git, Docker, Kubernetes
 
-## 🛠️ Projects
+## 🌍 Key Projects & Expertise
 
-Here are a top projects I've worked on:
+### 📌 Ghana’s Cocoa Rehabilitation Mobile App
+- GIS-based **cocoa farm mapping** using polygon-based data collection
+- **Farmer registration** and internal inspections
+- **Polygon data processing & analytics** for insights
 
-Passionate about building innovative mobile and back-end solutions for GIS mobile applications, the agricultural sector and businesses at large.
-Key Projects & Expertise:
+### 📦 Ghana's Cocoa Traceability Mobile App
+- **End-to-end tracking** of cocoa bean movement from farmers to shipment
+- Ensuring **transparency and efficiency** in the cocoa supply chain
 
-### 🌍 Ghana’s Cocoa Rehabilitation Mobile App Development/Engineering
+### 🌱 Agroforestry Mobile App Development
+- **Tree location tracking** and data collection (circumference, age, type, species, etc.)
+- Development of **tree data collection algorithms**
 
-    Mapping cocoa farms using polygon-based data collection
-    Farmer registration and internal inspections
-    Processing and analyzing polygon data for insights
+### 📍 Geospatial Mobile App Development
+- **GIS data collection** from the field
+- **Geospatial analytics & visualization**
+- Implementation of **GIS-based mapping algorithms**
 
-### 📦 Ghana's Cocoa Traceability Mobile App Development/Engineering
+### 🛰 Geospatial Backend Development
+- **GIS API development** for spatial data processing
+- Advanced **GIS data manipulation & analytics**
 
-    Tracking cocoa bean movement from farmers to shipment
-    Ensuring transparency and efficiency in the cocoa supply chain
+## 📫 Connect with Me
 
-### 🌱 Agroforestry Mobile App Development/Engineering
+- 📧 Email: **josephoforitenkorang391@gmail.com**
+- 🌍 [Personal Website](https://josephoforitenkorang.netlify.app/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mrtenkorang/)
+- 🐦 [Twitter](https://twitter.com/mrtenkorang)
 
-    Collecting tree location and information (circumference, age, type, species, etc.)
-    Developing tree data collection algorithms
+⚡ **Fun Fact:** When I’m not coding, you’ll probably find me playing football/soccer! ⚽
 
-### 📍 Geospatial Mobile App Development/ Engineering
-
-    GIS data collection from the field
-    GIS data visualization and analytics
-    Developing GIS-based algorithms for mapping and insights
-
-### 🛰 Geospatial Backend Development/Engineering
-
-    GIS API development for spatial data processing
-    Advanced GIS data manipulation and analytics
-
-I’m passionate about using technology to drive sustainable agriculture, geospatial intelligence, and digital transformation in the agricultural sectors at large. I am always open to collaborations and discussions! 🚀
-
-## 📫 Contact me
-
-- [LinkedIn](https://www.linkedin.com/in/mrtenkorang/)
-- [Twitter](https://twitter.com/mrtenkorang)
-- [Personal Website](https://josephoforitenkorang.netlify.app/)
-
-Thanks for visiting my profile!
+Thanks for stopping by! 🚀
