@@ -33,6 +33,7 @@ Here are some of the projects I’ve worked on:
 - Developed a mobile app for mapping cocoa farms using polygon-based data collection.
 - Implemented farmer registration and internal inspection features.
 - Processed and analyzed polygon data to generate actionable insights.
+- Implemented geofencing algorithms to prevent polygon overlaps
 
 ### 📦 **Ghana's Cocoa Traceability Mobile App**
 - Built a system to track cocoa bean movement from farmers to shipment.
