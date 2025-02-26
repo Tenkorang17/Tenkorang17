@@ -1,49 +1,74 @@
-# Hi, I'm Joseph Ofori Tenkorang 👋
+# Hi there, I'm Joseph Ofori Tenkorang 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=mrtenkorang&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=mrtenkorang&color=green&label=Profile+Views)
 
-## 🚀 Software Engineer | GIS Mobile App Engineer
+## 🚀 About Me
 
-I am a passionate **Software Engineer** specializing in **GIS Mobile App Development**, **Back-end Engineering**, and **Geospatial Data Processing**. My expertise spans across **Flutter/Dart, Python/Django, GIS, JavaScript, and Web Development**. I am dedicated to leveraging technology to drive digital transformation in **agriculture, geospatial intelligence, and sustainability**.
+**SOFTWARE ENGINEER | GIS MOBILE APP ENGINEER**
+
+Passionate about building innovative mobile and back-end solutions for GIS applications, agriculture, and business transformation. I specialize in developing scalable, efficient, and user-friendly applications that leverage geospatial intelligence and modern technologies.
+
+- 🌱 **Currently working on:** GIS-based mobile applications and backend systems.
+- 💬 **Ask me about:** Flutter/Dart, GIS, JavaScript, Python/Django, and Web Development.
+- 📫 **How to reach me:** [josephoforitenkorang391@gmail.com](mailto:josephoforitenkorang391@gmail.com)
+- ⚡ **Fun fact:** When I'm not coding, I'm playing football/soccer ⚽.
+
+---
 
 ## 🛠️ Technical Skills
 
 - **Programming Languages:** Dart, Go, JavaScript, Python, Java, C/C++
-- **Frameworks & Technologies:** Flutter, React, Node.js, Django
+- **Frameworks & Libraries:** Flutter, React, Node.js, Django
 - **Databases:** MongoDB, PostgreSQL, MySQL
-- **DevOps & Tools:** Git, Docker, Kubernetes
+- **Tools & Platforms:** Git, Docker, Kubernetes, GIS Tools (QGIS, ArcGIS)
+- **Other Skills:** RESTful APIs, Geospatial Data Processing, Agile Development
 
-## 🌍 Key Projects & Expertise
+---
 
-### 📌 Ghana’s Cocoa Rehabilitation Mobile App
-- GIS-based **cocoa farm mapping** using polygon-based data collection
-- **Farmer registration** and internal inspections
-- **Polygon data processing & analytics** for insights
+## 🌟 Key Projects
 
-### 📦 Ghana's Cocoa Traceability Mobile App
-- **End-to-end tracking** of cocoa bean movement from farmers to shipment
-- Ensuring **transparency and efficiency** in the cocoa supply chain
+Here are some of the projects I’ve worked on:
 
-### 🌱 Agroforestry Mobile App Development
-- **Tree location tracking** and data collection (circumference, age, type, species, etc.)
-- Development of **tree data collection algorithms**
+### 🌍 **Ghana’s Cocoa Rehabilitation Mobile App**
+- Developed a mobile app for mapping cocoa farms using polygon-based data collection.
+- Implemented farmer registration and internal inspection features.
+- Processed and analyzed polygon data to generate actionable insights.
 
-### 📍 Geospatial Mobile App Development
-- **GIS data collection** from the field
-- **Geospatial analytics & visualization**
-- Implementation of **GIS-based mapping algorithms**
+### 📦 **Ghana's Cocoa Traceability Mobile App**
+- Built a system to track cocoa bean movement from farmers to shipment.
+- Ensured transparency and efficiency in the cocoa supply chain.
 
-### 🛰 Geospatial Backend Development
-- **GIS API development** for spatial data processing
-- Advanced **GIS data manipulation & analytics**
+### 🌱 **Agroforestry Mobile App**
+- Designed an app for collecting tree location and metadata (circumference, age, type, species, etc.).
+- Developed algorithms for efficient tree data collection and analysis.
 
-## 📫 Connect with Me
+### 📍 **Geospatial Mobile App Development**
+- Created GIS-based mobile apps for field data collection.
+- Implemented GIS data visualization and analytics features.
+- Developed custom algorithms for mapping and geospatial insights.
 
-- 📧 Email: **josephoforitenkorang391@gmail.com**
-- 🌍 [Personal Website](https://josephoforitenkorang.netlify.app/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mrtenkorang/)
-- 🐦 [Twitter](https://twitter.com/mrtenkorang)
+### 🛰 **Geospatial Backend Development**
+- Built RESTful APIs for spatial data processing and manipulation.
+- Engineered advanced GIS data analytics pipelines.
 
-⚡ **Fun Fact:** When I’m not coding, you’ll probably find me playing football/soccer! ⚽
+---
 
-Thanks for stopping by! 🚀
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtenkorang&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtenkorang&layout=compact&theme=dark)
+
+---
+
+## 📫 Let's Connect
+
+I’m always open to collaborations and discussions! Feel free to reach out:
+
+- [LinkedIn](https://www.linkedin.com/in/mrtenkorang/)
+- [Twitter](https://twitter.com/mrtenkorang)
+- [Personal Website](https://josephoforitenkorang.netlify.app/)
+
+---
+
+Thanks for visiting my profile! Let’s build something amazing together. 🚀
